@@ -2,4 +2,9 @@ hi my name is machie
 this is test file 
 please run it again
 thank you
+<<<<<<< HEAD
 abc lin
+=======
+abc line
+" this is to see weather file is being updated on remote repository "
+>>>>>>> 3400cfb2cabb92d304303f79f9c2d99ec6673bd2
